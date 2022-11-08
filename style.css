@@ -29,7 +29,7 @@ body {
 
 #image {
     max-width: 90%;
-    height: 30rem;
+    height: auto;
     text-align: center;
 }
 
